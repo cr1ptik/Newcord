@@ -2,40 +2,10 @@
 
 A revival of a colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
 
-![Banner](https://imgur.com/i3S1GGI.png)
+![Banner](https://cdn.upload.systems/uploads/Et3iOIL1.png)
 
 ## Installation guide
 
-To download the theme, go on this [page][download-link], right-click, click "save as" and save it in your BetterDiscord themes folder.
+To download the theme, go on this [page](https://raw.githubusercontent.com/cr1ptik/Newcord/main/src/newcord.theme.css), right-click, click "save as" and save it in your BetterDiscord themes folder.
 
-If you need a more detailed guide here's one for Windows and one for macOS:
-
--   [Windows](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/windows.md)
--   [macOS](https://github.com/SquirrelKiev/NewcordRevived/blob/main/guides/macOS.md)
-
-## Customization guide
-
-Coming soon, sorry . . .
-
-![Calendar](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/calendar.svg) It should come around September 2021.
-
-## Features to come
-
--   A plugin to customize the theme directly in Discord's appearance settings.
--   The possibility to customize the background when the windows padding is activated.
-
-## Preview
-
-##### Home
-
-![Screenshot1](https://imgur.com/oV98fvb.png)
-
-##### Settings
-
-![Screenshot2](https://imgur.com/7VXDMbQ.png)
-
-##### Server Settings
-
-![Screenshot3](https://imgur.com/MZD1Sj5.png)
-
-#### **Made with ![Love](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
+#### **Made with ![Love](https://raw.githubusercontent.com/cr1ptik/Newcord/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
