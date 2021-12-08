@@ -1,9 +1,4 @@
-# NewcordRevived [![Download][download-badge]][download-link] [![Support][support-badge]][support-link]
-
-[download-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/download.svg
-[support-badge]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/support.svg
-[download-link]: https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/src/newcord.theme.css
-[support-link]: https://github.com/SquirrelKiev/NewcordRevived/issues
+# Newcord - [Download](https://raw.githubusercontent.com/cr1ptik/Newcord/main/src/newcord.theme.css)
 
 A revival of a colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
 
