@@ -1,5 +1,7 @@
 # Newcord - [Download](https://raw.githubusercontent.com/cr1ptik/Newcord/main/src/newcord.theme.css)
 
+# im not updating this anymore use [this](https://github.com/SquirrelKiev/NewcordRevived) that will be maintained more 
+
 A revival of a colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
 
 ![Banner](https://cdn.upload.systems/uploads/Et3iOIL1.png)
